@@ -1,5 +1,4 @@
 # Caesar-Cipher
 Encryption and Decryption Algorithm
 
-Dont Copy 
-First Learn
+Dont Copy, Learn First
